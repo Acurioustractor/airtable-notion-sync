@@ -180,3 +180,5 @@ env/
 .vscode/
 *.swp
 *.swo
+debug_output.txt
+debug.log
